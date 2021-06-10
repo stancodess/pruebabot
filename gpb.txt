@@ -1,0 +1,122 @@
+ 181.39.24.204
+BGP routing table entry for 181.39.0.0/19
+Paths: (22 available, best #19, table Default-IP-Routing-Table)
+  Not advertised to any peer
+  1299 27947
+    62.115.49.173 from 216.218.252.147 (216.218.252.171)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Originator: 216.218.252.171, Cluster list: 216.218.252.147 
+      Last update: Sun Jun  6 05:15:21 2021
+
+  1299 27947
+    216.218.252.171 from 216.218.252.171 (216.218.252.171)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:20 2021
+
+  1299 27947
+    216.218.252.168 from 216.218.252.168 (216.218.252.168)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:05 2021
+
+  1299 27947
+    216.218.252.173 from 216.218.252.173 (216.218.252.173)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 07:00:15 2021
+
+  1299 27947
+    216.218.252.167 from 216.218.252.167 (216.218.252.167)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Fri Jun  4 21:43:13 2021
+
+  1299 27947
+    216.218.252.164 from 216.218.252.164 (216.218.252.164)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:11 2021
+
+  1299 27947
+    62.115.181.197 from 216.218.252.179 (216.218.252.176)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Originator: 216.218.252.176, Cluster list: 216.218.252.179 216.218.252.151 
+      Last update: Sun Jun  6 05:15:06 2021
+
+  1299 27947
+    216.218.252.174 from 216.218.252.174 (216.218.252.174)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:06 2021
+
+  1299 27947
+    216.218.252.190 from 216.218.252.190 (216.218.252.190)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:05 2021
+
+  1299 27947
+    216.218.252.169 from 216.218.252.169 (216.218.252.169)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 07:56:19 2021
+
+  1299 27947
+    62.115.181.193 from 216.218.252.178 (216.218.252.149)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Originator: 216.218.252.149, Cluster list: 216.218.252.178 
+      Last update: Sun Jun  6 05:25:06 2021
+
+  1299 27947
+    216.218.252.189 from 216.218.252.189 (216.218.252.189)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:04 2021
+
+  1299 27947
+    216.218.252.184 from 216.218.252.184 (216.218.252.184)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:15 2021
+
+  1299 27947
+    216.218.252.82 from 216.218.252.82 (216.218.252.82)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:04 2021
+
+  1299 27947
+    216.218.252.154 from 216.218.252.154 (216.218.252.154)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:08 2021
+
+  1299 27947
+    213.248.83.169 from 216.218.252.157 (216.218.252.224)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Originator: 216.218.252.224, Cluster list: 216.218.252.157 
+      Last update: Sun Jun  6 05:15:06 2021
+
+  1299 27947
+    216.218.252.176 from 216.218.252.176 (216.218.252.176)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:06 2021
+
+  1299 27947
+    216.218.252.177 from 216.218.252.177 (216.218.252.177)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 07:30:15 2021
+
+  1299 27947
+    62.115.175.189 from 216.218.252.211 (216.218.252.55)
+      Origin IGP, metric 48, localpref 70, valid, internal, best
+      Originator: 216.218.252.55, Cluster list: 216.218.252.211 
+      Last update: Sun Jun  6 05:25:13 2021
+
+  1299 27947
+    216.218.252.165 from 216.218.252.165 (216.218.252.165)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Last update: Sun Jun  6 05:15:05 2021
+
+  1299 27947
+    62.115.181.197 from 216.218.252.180 (216.218.252.176)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Originator: 216.218.252.176, Cluster list: 216.218.252.180 216.218.252.151 
+      Last update: Sun Jun  6 05:15:08 2021
+
+  1299 27947
+    62.115.181.197 from 216.218.252.151 (216.218.252.176)
+      Origin IGP, metric 48, localpref 70, valid, internal
+      Originator: 216.218.252.176, Cluster list: 216.218.252.151 
+      Last update: Sun Jun  6 05:15:06 2021
+
+route-server> exit
